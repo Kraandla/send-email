@@ -14,7 +14,7 @@ jobs:
         subject: "ALERT, WE HAVE DETECTED HOT SINGLE COMMITS IN YOUR ARE ${{github.repository}}"
         body: |
           Hello teem,
-          A hot single commit hasa been detected in your area. Pls review changes and merge int o main.
+          A hot new single commit hasa been detected in your area. Pls review changes and merge int o main.
 
           Hot single commit commited by: ${{github.event.pusher.name}}
           to: "gahmahh4@gmail.com"
