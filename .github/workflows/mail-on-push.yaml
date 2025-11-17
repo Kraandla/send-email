@@ -17,5 +17,5 @@ jobs:
             A hot new single commit hasa been detected in your area. Pls review changes and merge int o main.
 
             Hot single commit commited by: ${{github.event.pusher.name}}
-            to: "gahmahh4@gmail.com"
-            from: "Github actions for ${{github.repository}}"
+          to: "jyri.vaitmaa@tthk.ee"
+          from: "Github actions for ${{github.repository}}"
